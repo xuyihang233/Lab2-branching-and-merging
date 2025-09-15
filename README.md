@@ -32,7 +32,7 @@ If you miss the lab and work on this after, you can use this URL though.
 
 # TASK 1: Your first branch
 
-- [ ] Create and checkout a new branch called `task_1` using either IntelliJ or the Terminal:
+- [x] Create and checkout a new branch called `task_1` using either IntelliJ or the Terminal:
   - IntelliJ: `Git -> New branch...`
   - Terminal: `git checkout -b task_1`
   - After, you can check `git status` or the Log tab of the Git tool window in IntelliJ to see
@@ -40,17 +40,17 @@ If you miss the lab and work on this after, you can use this URL though.
 
 ---
 
-- [ ] Open the TODO tool window (`View -> Tool Windows -> TODO`) and click on the TASK 1 TODO listed.
+- [x] Open the TODO tool window (`View -> Tool Windows -> TODO`) and click on the TASK 1 TODO listed.
 
 ---
 
-- [ ] Complete the TASK 1 TODO and commit your changes to this file (checking off the
+- [x] Complete the TASK 1 TODO and commit your changes to this file (checking off the
 completed items so far) and `DataTypes.java` (remove the word TODO and your bug fix).
   - talk to your team or your TA, then see the hints at the bottom of the readme if you get stuck.
 
 ---
 
-- [ ] Now, we'll merge the `task_1` branch back into `main`. When merging,
+- [x] Now, we'll merge the `task_1` branch back into `main`. When merging,
 you need to be currently on the branch you are trying to merge into, so we'll first check out the main
 branch:
   - IntelliJ: `Git -> branches... -> main -> Checkout`
