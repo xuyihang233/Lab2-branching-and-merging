@@ -25,7 +25,7 @@ Your TA will share a different URL for you to fork from, so that you
 can make pull requests to that repo during Task 3 of the lab.
 If you miss the lab and work on this after, you can use this URL though.
 
-- [ ] Make a fork of this repo and clone a local copy (as you did in Lab 1).
+- [x] Make a fork of this repo and clone a local copy (as you did in Lab 1).
 
 >**Important**: make sure to uncheck the option to only fork the main branch, as the repo
 > contains two branches you will use later in this lab.
