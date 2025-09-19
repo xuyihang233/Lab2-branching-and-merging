@@ -119,9 +119,9 @@ Now, you are almost ready to share your recipe with the remote!
 
 - [x] Commit any changes that you want to `recipe.md` to further improve the recipe.
 
-- [ ] **While still on the `task_3` branch**, push your code to your remote repository on GitHub.
+- [x] **While still on the `task_3` branch**, push your code to your remote repository on GitHub.
 
-- [ ] Go to GitHub and you will see an option to make a pull request to the original repo. Make
+- [x] Go to GitHub and you will see an option to make a pull request to the original repo. Make
   a pull request and see that the PR shows up in the original repository that you forked.
 
 Since others will also be making pull requests, we won't *actually* accept any of them for now, but
